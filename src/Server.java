@@ -10,7 +10,6 @@ public class Server {
     public static void main(String[] args) {
         // File path for JSON data
         //String filepath = "C:\\Users\\lenny\\Desktop\\Grit_projekt\\web_services\\SlutProjekt_V4\\Server\\src\\data.json";
-        //C:\Users\lenny\Desktop\Grit_projekt\web_services\SlutProjekt_V4
         String filepath = ".\\src\\data.json";
 
         ServerSocket serverSocket;
