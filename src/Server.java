@@ -14,7 +14,7 @@ public class Server {
 
         ServerSocket serverSocket;
 
-        // Create a new server socket and bind it to port 8300
+        // Create a new server socket and set it to port 8300
         try {
             serverSocket = new ServerSocket(8300);
         } catch (Exception e) {
