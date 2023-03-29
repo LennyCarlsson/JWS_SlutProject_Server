@@ -1,0 +1,86 @@
+[
+  {
+    "gender": "Male",
+    "species": "Dog",
+    "name": "Buddy",
+    "breed": "Pitbull",
+    "age": 5
+  },
+  {
+    "gender": "Male",
+    "species": "Cat",
+    "name": "Milo",
+    "breed": "Siamese",
+    "age": 3
+  },
+  {
+    "gender": "Female",
+    "species": "Dog",
+    "name": "Luna",
+    "breed": "Golden Retriever",
+    "age": 2
+  },
+  {
+    "gender": "Male",
+    "species": "Dog",
+    "name": "Charlie",
+    "breed": "Beagle",
+    "age": 4
+  },
+  {
+    "gender": "Male",
+    "species": "Cat",
+    "name": "King",
+    "breed": "Persian",
+    "age": 3
+  },
+  {
+    "gender": "Male",
+    "species": "Dog",
+    "name": "Killer",
+    "breed": "Rottweiler",
+    "age": 9
+  },
+  {
+    "gender": "Male",
+    "species": "Dog",
+    "name": "Fido",
+    "breed": "Pudel",
+    "age": 8
+  },
+  {
+    "gender": "Female",
+    "species": "Dog",
+    "name": "Sofia",
+    "breed": "Rottweiler",
+    "age": 5
+  },
+  {
+    "gender": "Male",
+    "species": "Cat",
+    "name": "Milo",
+    "breed": "Burmese",
+    "age": 1
+  },
+  {
+    "gender": "Male",
+    "species": "Cat",
+    "name": "Mountain",
+    "breed": "Himalayan",
+    "age": 3
+  },
+  {
+    "gender": "Female",
+    "species": "Dog",
+    "name": "Queen",
+    "breed": "Bulldog",
+    "age": 4
+  },
+  {
+    "gender": "Female",
+    "species": "dog",
+    "name": "Toto",
+    "breed": "Briard",
+    "age": 12
+  }
+]
