@@ -9,6 +9,7 @@ import org.json.simple.parser.JSONParser;
 public class Server {
     public static void main(String[] args) {
         // File path for JSON data
+        //Keeping this path in case its needed if the "short path" isn't working.
         //String filepath = "C:\\Users\\lenny\\Desktop\\Grit_projekt\\web_services\\SlutProjekt_V4\\Server\\src\\data.json";
         String filepath = ".\\src\\data.json";
 
